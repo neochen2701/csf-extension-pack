@@ -1,16 +1,22 @@
-# README
+# csf-extension-pack
 
-## This is the README for your extension pack "csf-extension-pack"
+[財團法人中華民國電腦技能基金會 Computer Skills Foundation](https://www.csf.org.tw/main/index.asp)認證考試使用的擴充套件包。
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+適用的認證考試項目：
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+- [網頁資料擷取與分析 Python 3](https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=n3V3YTVlWkQ=)
+- [程式語言 Python 3](https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=y/zEfkGeQhM=)
+- [基礎程式語言 Python 3](https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=D7bzUZWU2%20Q=)
 
-## For more information
+## Dependency Extension
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+以下為此擴充套件包相依的擴充套件:
+
+- [Anaconda Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-python.anaconda-extension-pack)
+  - 增強在 Visual Studio Code 使用 Anaconda 的體驗。
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+  - 對 Python 語言的豐富支持，包括諸如 IntelliSense，linting，調試，代碼導航，代碼格式，Jupyter Notebook 支持，重構的功能，變量瀏覽器，測試瀏覽器，代碼段等！
+- [Chinese (Traditional) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hant)
+  - 中文 (繁體) 語言套件，讓 VS Code 提供本地化的使用者介面。
 
 **Enjoy!**
