@@ -1,0 +1,21 @@
+{
+    "name": "csf-extension-pack",
+    "displayName": "CSF Extension Pack",
+    "description": "CSF EXAM extension pack",
+    "version": "0.0.1",
+    "publisher": "neochen2701",
+    "icon": "icon.png",
+    "repository": "https://github.com/neochen2701/csf-extension-pack",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "keywords": ["CSF", "TQC", "TQC+"],
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "MS-CEINTL.vscode-language-pack-zh-hant",
+        "ms-python.anaconda-extension-pack",
+        "ms-python.python"
+    ]
+}
